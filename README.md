@@ -38,13 +38,3 @@ This project transforms raw vehicle registration data into a dynamic business in
 * **Calculated Fields & Expressions:** Used LOD (Level of Detail) expressions, aggregations, and ratio calculations to determine fleet percentages and averages dynamically.
 * **Interactive Dashboard Design:** Configured parameter actions, field filters, dynamic tooltips, and cross-filtering across views.
 * **Business Intelligence Best Practices:** Balanced macro trends (market adoption) with micro insights (brand-level specs) to drive actionable exploration.
-
----
-
-## Repository Structure
-
-```text
-├── data/                  # Raw and processed CSV datasets
-├── visuals/               # Dashboard screenshots and preview images
-├── Electric_Vehicle.twbx  # Tableau Packaged Workbook
-└── README.md              # Project documentation
