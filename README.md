@@ -1,8 +1,8 @@
-# ⚡ Electric Vehicle Market & Adoption Dashboard
+# Electric Vehicle Market & Adoption Dashboard
 
 An interactive Tableau dashboard exploring electric vehicle (EV) registration trends, battery tech adoption, and market leaders. Built to make complex automotive data clean, visual, and easy to navigate.
 
-👉 **[Check out the live interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/thao.lu6343/viz/Electric_Vehicle_Dashboard_17324843935220/Dashboard1)**
+**[Check out the live interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/thao.lu6343/viz/Electric_Vehicle_Dashboard_17324843935220/Dashboard1)**
 
 ---
 
